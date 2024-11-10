@@ -43,6 +43,7 @@
 		"adjective": ["эщкерский"],
 		"startBias": ["Forest"],
 		"prefferedVictoryType": "Domination",
+		"favoredReligion": "Islam"
 
 		
 ]
