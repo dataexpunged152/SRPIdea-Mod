@@ -72,6 +72,12 @@
 		"adjective": ["фембоварский"],
 		"startBias": ["Grassland"],
 		"prefferedVictoryType": "Domination",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [245, 0, 245],
+		"uniqueName": "Няшная забота",
+		"uniques":
+		"cities": ["Фембойбург","Фем-Мюнхен","Юбкоберг","Фемшингтон","Нюдсен","Чулкенвар","Няшхилл","Хорн-юбкен","Санкт-Гарем"]
 	},
         {
 		"name": "Бахмут"
